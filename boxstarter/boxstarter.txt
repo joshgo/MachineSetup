@@ -1,0 +1,19 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst keepass.install
+cinst google-chrome-x64
+cinst powershell
+cinst dropbox
+cinst sublimetext3
+cinst beyondcompare
+cinst git.install
+cinst putty.install
+cinst winscp
+cinst 7zip.install
+cinst nuget.commandline
+cinst sharex
+cinst heidisql
+cinst awscli
+cinst awstools.powershell
+cinst awssdk-tools
